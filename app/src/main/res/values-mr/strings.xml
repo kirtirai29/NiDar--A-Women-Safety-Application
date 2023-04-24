@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">निडर</string>
+    <string name="title_activity_saving_activity">saving_activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">पुढे</string>
+    <string name="previous">मागील</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="setting">Settings</string>
+    <string name="instruction">सूचना</string>
+    <string name="news">बातम्या</string>
+    <string name="choose_buttons">गुप्तहेर शोधा</string>
+    <string name="instructions">सूचना</string>
+    <string name="settings">Settings</string>
+    <string name="textwarn">परवानगी स्वीकारण्याचा इशारा</string>
+    <string name="nidar">निडर</string>
+    <string name="satark_savadhan_surakshit">- सतर्क * सावधान * सुरक्षित</string>
+    <string name="hidden_ncamera">गुप्त कॅमेरा</string>
+    <string name="share_and_save_lives">शेअर करा आणि जीव वाचवा</string>
+    <string name="emergency_nsos">आपातकालीन\n एसओएस</string>
+    <string name="access">NiDar ला प्रवेश आवश्यक आहे</string>
+    <string name="sms">एसएमएस पाठवत आहे:-</string>
+    <string name="permission">इमर्जन्सी मेसेजिंगसाठी एसएमएस पाठवण्याची परवानगी आवश्यक आहे</string>
+    <string name="location">स्थान:-</string>
+    <string name="liveloc">थेट स्थानासह एम्बेड केलेल्या संदेशास स्थान परवानगीची आवश्यकता आहे</string>
+    <string name="call">फोन कॉल:-</string>
+    <string name="callpermission">इमर्जन्सी कॉलिंगसाठी कॉल फोनची परवानगी आवश्यक आहे</string>
+    <string name="declaration">घोषणा</string>
+    <string name="indiandeveloper">हे ऐप पूर्णपणे भारतीय विकसकांनी विकसित केले आहे आणि या अॅपशी संबंधित सर्व डेटा स्थानिक पातळीवर आपल्या फोनमध्ये संग्रहित केला जातो.</string>
+    <string name="women_s_nnews">महिला \n बातम्या</string>
+    <string name="todo">TODO</string>
+    <string name="about_nus">आमच्याबद्दल</string>
+    <string name="apptour">ऐप \n भ्रमण</string>
+    <string name="siren_nalert">सायरन\nसूचना</string>
+    <string name="policy"><![CDATA[<a href=\'https://www.websitepolicies.com/policies/view/IaK4RjyB\'>PRIVACY POLICY</a>]]></string>
+    <string name="language">भाषा निवडा</string>
+    <string name="instruction_for_hidden_camera">महिलांनी वापरलेल्या विविध सार्वजनिक ठिकाणी छुपे कॅमेरे बसवणे ही महिलांच्या स्वाभिमान आणि सन्मानाची सर्वात मोठी समस्या आहे. त्यामुळे, निडर चे हे वैशिष्ट्य महिलांना कुठेही छुपे कॅमेरे शोधण्यात मदत करते.\n\nलपलेले कॅमेरे:-\n\n1. लपलेले कॅमेरे जे IR किरण उत्सर्जित करतात:-\n\nतुमच्या फोनचा नाईट व्हिजन असलेला कॅमेरा या किरणांचे ब्लिंकिंग ओळखू शकतो जसे आम्ही टीव्हीच्या रिमोट कंट्रोलची चाचणी करतो. \n\n२. प्रगत इलेक्ट्रॉनिक छुपे कॅमेरे :-\n\nहे कॅमेरे IR किरण उत्सर्जित करत नाहीत परंतु हे इलेक्ट्रॉनिक कॅमेरे असल्याने ते इलेक्ट्रोमॅग्नेटिक रेडिएशन पसरवतात.\n\nआणि आम्ही तुमच्या फोनच्या मॅग्नेटोमीटर सेन्सरच्या मदतीने एक सिम्युलेशन विकसित केले आहे जे तुम्हाला मदत करते. कोणतेही इलेक्ट्रॉनिक उपकरण शोधा. \nपरंतु छुपे कॅमेरे बहुतेक अशा ठिकाणी बसवले जातात जेथे इलेक्ट्रॉनिक उपकरणांचा वापर आवश्यक नाही. \nम्हणून, त्या ठिकाणी कोणतेही इलेक्ट्रॉनिक उपकरण शोधणे हे स्पाय कॅमेरा स्थापित होण्याची शक्यता सुनिश्चित करते. \nतुम्हाला तुमच्या फोनद्वारे सर्व संशयित ठिकाणे हलवावी आणि स्कॅन करावी लागतील आणि जर तेथे कोणताही छुपा कॅमेरा असेल तर NiDar बीप वाजवेल. फोन संशयित क्षेत्राच्या अगदी जवळ असल्याची खात्री करा.\n\n</string>
+    <string name="detailed_instructions">तपशीलवार सूचना</string>
+    <string name="aboutus">आम्ही NiDar टीम आहोत ज्यांनी महिलांच्या सुरक्षेसाठी हे अॅप्लिकेशन विकसित केले आहे. हे नाविन्यपूर्ण तंत्रज्ञान आणि सिम्युलेशनद्वारे आजपर्यंतच्या मानवी सभ्यतेच्या सर्वात विनाशकारी समस्येचे निराकरण करण्यात मदत करते. \n धन्यवाद!!</string>
+    <string name="bedroom_instruction">बेडरूममध्ये लपविलेल्या कॅमेराची शक्यता जवळजवळ 15% आहे. \n\nखाली सूचीबद्ध डिव्हाइससाठी स्कॅन करा: \n\n1. स्मोक डिटेक्टर - \nसावधगिरी: डिटेक्टरच्या दृश्यमान भागावर स्टिकर/टेप लावा. \n\n२. एअर कंडिशनर - \nसावधगिरी: पंखा वापरा आणि शक्य असल्यास एसी बंद करा. फिरणारे ब्लेड बंद करा. \n\n३. दूरदर्शन - \nसावधगिरी: मुख्य पुरवठा बंद करा, टीव्हीचा भाग दिसणार्‍या लेन्ससमोर वस्तू ठेवा. \n\n४. रात्रीचा दिवा - \nसावधगिरी: तो बंद ठेवा किंवा त्याची स्थिती बदला. \n\n 5.फ्लॉवर पॉट - \nसावधगिरी: स्थान कमीत कमी दृश्यमान क्षेत्रामध्ये बदला. \n\n६. कॉफी मेकर - \nसावधगिरी: तो अनप्लग करा आणि कपाटात ठेवा. \n\n शेवटी दिवे बंद करायला विसरू नका.</string>
+    <string name="changingroom_instruction">चेंजिंग रूममध्ये लपविलेल्या कॅमेराची शक्यता जवळपास 20% आहे. \n\nखाली सूचीबद्ध डिव्हाइससाठी स्कॅन करा: \n\n1. आरसा - \nसावधगिरी: आरशाला स्पर्श करा. तुम्हाला तुमच्या बोटात काही अंतर जाणवते का?
+        आणि त्याचे प्रतिबिंब? जर नाही, तर आरशाच्या काचेच्या मागे छुपा कॅमेरा असू शकतो. ताबडतोब तक्रार करा किंवा खोली बदला. \n\n२. हॅन्गर - \nसावधगिरी: हँगरसाठी लेन्स दिसणारे छिद्र तपासा
+        विशेषतः स्क्रू दिसणार्‍या वस्तू. सर्व स्क्रू झाकणारे कापड ठेवा. \n\n३. सीलिंग/स्मोक डिटेक्टर - \nसावधगिरी: डिटेक्टरच्या दृश्यमान भागावर स्टिकर/टेप लावा.</string>
+    <string name="detect_high_tech_spy_cameras">हायटेक स्पाय कॅमेरे शोधा</string>
+    <string name="tips_for_manual_detection">मॅन्युअल शोधण्यासाठी टिपा</string>
+    <string name="Detect_hidden_Cameras_anywhere">कुठेही लपवलेले कॅमेरे शोधा</string>
+    <string name="setup_emergency_sos_service_and_get_help_at_unsafe_places">आपत्कालीन एसओएस  सेवा सेट करा आणि असुरक्षित ठिकाणी मदत मिळवा</string>
+    <string name="read_women_s_empowerment_and_struggle_news_and_get_empowered">महिला सक्षमीकरण आणि संघर्षाच्या बातम्या वाचा आणि सक्षम व्हा</string>
+    <string name="use_this_button_to_deviate_the_culprit_this_can_also_be_triggered_by_just_tapping_the_power_button_6_times">गुन्हेगाराला विचलित करण्यासाठी हे बटण वापरा, हे फक्त पॉवर बटण 6 वेळा टॅप करून देखील ट्रिगर केले जाऊ शकते</string>
+    <string name="while_outside_you_might_be_under_cctv_camera_n_nin_outside_world_you_are_not_supposed_to_hide_your_identity_in_official_places_so_just_be_cautious_and_behave_accordingly">While Outside you might be under CCTV camera. \n\nIn Outside world, you are not supposed to hide your identity in official places. so just be cautious and behave accordingly.</string>
+    <string name="enter_first_phone_number">पहिला फोन नंबर प्रविष्ट करा…</string>
+    <string name="enter_second_phone_number">दुसरा फोन नंबर प्रविष्ट करा…</string>
+    <string name="enter_third_phone_number">तिसरा फोन नंबर प्रविष्ट करा…</string>
+    <string name="enter_fourth_phone_number">चौथा फोन नंबर प्रविष्ट करा…</string>
+    <string name="enter_message">संदेश प्रविष्ट करा…</string>
+    <string name="try_it">हे करून पहा</string>
+    <string name="save">जतन करा</string>
+    <string name="instructions_for_emergency_service">आपत्कालीन सेवेसाठी सूचना</string>
+    <string name="step_1_save_maximum_four_contact_numbers_of_your_relatives_n_nstep_2_tap_try_it_button_to_test_the_functionality_of_the_sos_n_nstep_3_the_app_will_send_sms_with_your_live_location_to_all_four_numbers_and_make_phone_call_to_first_number_the_live_location_will_not_be_a_link_instead_it_will_be_longitude_latitude_and_the_exact_place_wherever_you_are_present_so_that_your_relatives_could_take_action_even_if_they_don_t_have_internet_connection_n_nstep_4_now_NiDar_is_ready_to_help_you_in_emergency_situations_n_nlet_s_see_how_you_will_use_ladybuddy_in_emergency_n_nstep_1_whenever_you_go_through_any_unsafe_place_just_open_the_app_and_press_back_or_home_button_so_that_the_app_starts_running_in_the_background_n_nstep_2_make_sure_that_app_is_running_in_the_background_that_means_it_is_in_the_system_tray_n_nstep_3_whenever_you_feel_emergency_tapping_power_button_three_times_will_send_emergency_message_and_call_tapping_it_again_three_times_will_start_a_siren_to_deviate_the_culprit_n_nstep_4_make_sure_that_all_these_6_times_tapping_should_be_in_one_minute_otherwise_you_will_have_to_again_start_tapping_count_from_zero_n_nstep_5_tapping_power_button_again_three_times_or_closing_the_app_from_background_will_stop_the_siren_n_nnote_make_sure_that_tapping_power_button_means_screen_goes_off_or_on">Step 1:- Save maximum four contact numbers of your relatives.\n\nStep 2:- Tap TRY IT button to test the functionality of the SOS.\n\nStep 3:- The app will send SMS with your live location to all four numbers and make phone call to first number. The live location will not be a link, instead it will be longitude, latitude and the exact place wherever you are present, so that your relatives could take action even if they don\'t have internet connection.\n\nStep 4:- Now, Ladybuddy is ready to help you in emergency situations.\n\nLet\'s see how you will use ladybuddy in emergency:-\n\nStep 1:- Whenever you go through any unsafe place, just open the app and press back or home button so that the app starts running in the background.\n\nStep 2:- Make Sure that app is running in the background that means it is in the system tray.\n\nStep 3:- Whenever you feel emergency, tapping power button three times will send Emergency message and call, tapping it again three times will start a siren to deviate the culprit.\n\nStep 4:- Make Sure that all these 6 times tapping should be in one minute otherwise you will have to again start tapping count from zero.\n\nStep 5:- Tapping power button again three times or closing the app from background will stop the siren.\n\nNote:- Make sure that tapping power button means screen goes off or on</string>
+    <string name="short_instructions">लहान सूचना</string>
+    <string name="nstep_1_save_relative_s_phone_no_s_n_nstep_2_test_the_sos_functionality_n_nstep_3_run_the_app_in_background_whenever_you_feel_unsafe_n_nstep_4_tap_the_power_button_3_times_make_sure_for_emergency_messaging_and_calling_n_nstep_5_tap_power_button_3_times_more_to_start_the_siren_alarm_and_3_times_more_to_stop_it_n_n_note_make_sure_that_tapping_power_button_means_screen_goes_off_or_on_n_nread_detailed_instructions_on_the_top_right_corner_n">\nStep 1:- Save relative\'s phone no.s\n\nStep 2:- Test the SOS Functionality\n\nStep 3:- Run the app in background whenever you feel unsafe\n\nStep 4:- Tap the power button 3 times Make sure for Emergency messaging and calling\n\nStep 5:- Tap power button 3 times more to start the siren alarm and 3 times more to stop it\n\n Note:- Make sure that tapping power button means screen goes off or on\n\nRead detailed instructions on the top right corner\n</string>
+    <string name="okay">ठीक आहे</string>
+    <string name="hindi">हिंदी</string>
+    <string name="possibility_of_a_hidden_camera_in_bathroom_is_almost_12_n_nscan_for_devices_listed_below_n_n1_water_heater_nprecaution_turn_it_off_before_taking_bath_n_n2_mirror_nprecaution_touch_the_mirror_do_you_feel_any_gap_between_your_finger_and_its_reflection_if_no_there_could_be_a_hidden_camera_behind_the_mirror_glass_n_n3_ceiling_smoke_detector_nprecaution_apply_sticker_tape_over_the_viewable_part_of_the_detector_n_n4_lamps_or_bulbs_nprecaution_you_cannot_do_much_about_that_but_still_use_curtains_whenever_possible">
+       बाथरूममध्ये लपविलेल्या कॅमेराची शक्यता जवळपास १२% आहे. \n\nखाली सूचीबद्ध डिव्हाइसेससाठी स्कॅन करा:
+        \n\n1. वॉटर हीटर - \nसावधगिरी: आंघोळ करण्यापूर्वी ते बंद करा. \n\n२. आरसा - \nसावधगिरी: ला स्पर्श करा
+        आरसा. तुमचे बोट आणि त्याचे प्रतिबिंब यात तुम्हाला काही अंतर जाणवते का? जर नाही, तर मागे छुपा कॅमेरा असू शकतो
+        आरशाचा ग्लास. \n\n३. सीलिंग/स्मोक डिटेक्टर - \nसावधगिरी: डिटेक्टरच्या दृश्यमान भागावर स्टिकर/टेप लावा.
+        \n\n४. दिवे किंवा बल्ब - \nसावधगिरी: तुम्ही त्याबद्दल फार काही करू शकत नाही, परंतु तरीही शक्य असेल तेव्हा पडदे वापरा.</string>
+    <string name="choosenactivityinst">R किरण उत्सर्जित करणारे लपलेले कॅमेरे तुमच्या फोनच्या कॅमेर्‍याची नाईट व्हिजन वापरून सहज शोधले जाऊ शकतात. परंतु आजकाल अतिशय उच्च तंत्रज्ञानाचे छुपे कॅमेरे फोनमध्ये आहेत.
+        मार्केट जे IR किरण देखील उत्सर्जित करत नाहीत, त्यामुळे आमचे मॅग्नेटोमीटर सेन्सर सिम्युलेशन तुम्हाला शोधण्यात मदत करते
+        ते स्पाय कॅमेरे अगदी सहज..</string>
+    <string name="MagnetometernotSupported">मॅग्नेटोमीटर समर्थित नाही</string>
+    <string name="PotentialElectronicDeviceDetected">संभाव्य इलेक्ट्रॉनिक उपकरण आढळले</string>
+    <string name="Finallyelectronicdevicedetected">शेवटी इलेक्ट्रॉनिक उपकरण सापडले</string>
+    <string name="NoDevice">कोणतेही संभाव्य इलेक्ट्रॉनिक उपकरण आढळले नाही</string>
+    <string name="where_are_you_now">तुम्ही आता कुठे आहात?</string>
+    <string name="bedroom">शयनकक्ष</string>
+    <string name="bathroom">स्नानगृह</string>
+    <string name="changing_room">पोशाख बदलण्याची खोली</string>
+    <string name="outside">बाहेर</string>
+    <string name="know_about_us">आमच्याबद्दल जाणून घ्या</string>
+    <string name="contact_us">आमच्याबद्दल</string>
+    <string name="Heading_aboutus">आमच्याबद्दल</string>
+    <string name="heading_Detailed">तपशीलवार सूचना</string>
+    <string name="heading_SOS">एसओएस सूचना</string>
+    <string name="Heading_Spy">स्पाय कॅमेरा डिटेक्टर</string>
+    <string name="Heading_Manaul">मॅन्युअल शोध</string>
+    <string name="Heading_Outside">बाहेरील सूचना</string>
+    <string name="Heading_ChangingRoom">चेंजिंगरूम सूचना</string>
+    <string name="Heading_BedroomInstructions">शयनकक्ष सूचना</string>
+    <string name="Heading_BathroomInstructions">स्नानगृह सूचना</string>
+    <string name="headinh_DetectHiddenCameras">लपलेले कॅमेरे शोधा</string>
+    <string name="Heading_WomenNews">महिला बातम्या</string>
+    <string name="Heading_AppTour">ऐप \n भ्रमण</string>
+    <string name="Heading_EmergencyService">आपत्कालीन सेवा</string>
+    <string name="calculate_n_safest_route">सर्वात सुरक्षित \n मार्गाची गणना करा</string>
+    <string name="magneto"> फोन सर्व जवळ हलवा छुपा कॅमेरा शोधण्यासाठी संशयित क्षेत्रे\n</string>
+    <string name="magneto2">स्क्रीनच्या तळाशी उजव्या कोपर्यात असलेल्या बटणावर टॅप करून तपशीलवार सूचना वाचा</string>
+    <string name="dangerMess">मला धोका आहे, कृपया लवकर या…</string>
+    <string name="title_activity_safe_route">सुरक्षित मार्ग</string>
+    <string name="Marathi">मराठी</string>
+
+
+    //Headings
+    <string name="heading_one">Emergency &amp; SOS Facility</string>
+    <string name="heading_two">Calculate Safest Route</string>
+    <string name="heading_three">Detect Hidden Camera</string>
+    <string name="heading_fourth">Women\'s News</string>
+
+    //Description
+    <string name="desc_one">You can send emergency message along with current location to Police or to the relatives</string>
+    <string name="desc_two">You can find out the safest route from your current location to the destination</string>
+    <string name="desc_three">You can detect the hidden cameras present in washrooms, changing room or in hotel rooms using this application</string>
+    <string name="desc_fourth">You can get the latest news from around the world on this application to keep you updated </string>
+    <string name="login_string">Already have an account? <b>Login here</b></string>
+    <string name="change_password">Change Password</string>
+    <string name="change_language">Change Language</string>
+    <string name="logout">Logout</string>
+    <string name="my_profile">My Profile</string>
+    <string name="navigation_open">Open Navigation drawer</string>
+    <string name="navigation_close">Close Navigation drawer</string>
+    <string name="my">My</string>
+    <string name="profile">Profile</string>
+    <string name="username_kirtiiraii">Username: kirtiiraii</string>
+    <string name="mobile">Mobile</string>
+    <string name="_91_8303582275">+91 8303582275</string>
+    <string name="email">Email</string>
+    <string name="kirtirai2906_gmail_com">kirtirai2906@gmail.com</string>
+    <string name="update_email">Update Email</string>
+    <string name="current_location">Current \n Location</string>
+    <string name="current_N_location">Current Location</string>
+</resources>

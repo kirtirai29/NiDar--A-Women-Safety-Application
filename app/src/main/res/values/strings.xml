@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">NiDar</string>
+    <string name="title_activity_saving_activity">saving_activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="setting">Settings</string>
+    <string name="instruction">Instructions</string>
+    <string name="news">News</string>
+    <string name="choose_buttons">Detect Spy</string>
+    <string name="instructions">Instructions</string>
+    <string name="settings">Settings</string>
+    <string name="textwarn">Warning to accept permission</string>
+    <string name="nidar">NiDar</string>
+    <string name="satark_savadhan_surakshit">- SATARK * SAVADHAN * SURAKSHIT</string>
+    <string name="hidden_ncamera">Hidden\nCamera</string>
+    <string name="share_and_save_lives">Share and Save Lives</string>
+    <string name="emergency_nsos">Emergency\nSOS</string>
+    <string name="access">NiDar needs access to</string>
+    <string name="sms">Sending SMS:-</string>
+    <string name="permission">Emergency messaging needs SEND SMS permission</string>
+    <string name="location">Location:-</string>
+    <string name="liveloc">Messaging embedded with live location needs Location permission</string>
+    <string name="call">Phone Call:-</string>
+    <string name="callpermission">Emergency Calling needs CALL PHONE permission</string>
+    <string name="declaration">Declaration</string>
+    <string name="indiandeveloper">The app is solely developed by INDIAN Developers and all data related to this app is stored locally in your phone.</string>
+    <string name="women_s_nnews">Women\'s\nNews</string>
+    <string name="todo">TODO</string>
+    <string name="about_nus">About\nUs</string>
+    <string name="apptour">App\nTour"</string>
+    <string name="siren_nalert">Siren\nAlert</string>
+    <string name="policy"><![CDATA[<a href=\'https://www.websitepolicies.com/policies/view/IaK4RjyB\'>PRIVACY POLICY</a>]]></string>
+    <string name="language">Choose Language</string>
+    <string name="instruction_for_hidden_camera">Installation of Hidden cameras at various public places used by women has been one of the greatest havoc problems of women\'s self respect and dignity. So, This feature of NiDar helps women to detect hidden cameras anywhere.\n\nTypes of Hidden cameras :-\n\n1. Hidden cameras which emit IR rays :-\n\nYour phone\'s camera with night vision can detect the blinking of these rays same as we test the remote control of TV . \n\n2. Advanced Electronic Hidden cameras :-\n\nThese cameras do not emit IR rays but as these are electronic cameras so they radiate Electromagnetic radiations.\n\nAnd we have developed a simulation by the help of the magnetometer sensor of your phone which helps you detect any electronic device. \nBut as the hidden cameras are installed mostly at those places where use of electronic devices is not needed. \nSo, detecting any electronic device at those places ensures the chances of spy camera installation. \nYou have to just move and scan all the suspected places by your phone and if there is any hidden camera then NiDar will start beeping. Make sure that the phone is very much close to the suspected area.\n\n</string>
+    <string name="detailed_instructions">Detailed instructions</string>
+    <string name="aboutus">We are the NiDar team who has developed this application for the safety of women. It helps in addressing the most devastating problem of human civilization till date, by an innovating technology and simulation. \n Thank-you!!</string>
+    <string name="bedroom_instruction">Possibility of a Hidden Camera in bedroom is almost 15%. \n\nScan for devices listed below: \n\n1. Smoke Detector - \nPrecaution: Apply sticker/tape over the viewable part of the detector. \n\n2. Air Conditioner - \nPrecaution: Use fan and turn off the AC if possible. Turn rotating blades off. \n\n3. Television - \nPrecaution: Turn off main supply, keep objects in front of lens looking part of the TV. \n\n4. Night Lamp - \nPrecaution: Keep it off or change it\'s position. \n\n 5.Flower Pot - \nPrecaution: Change position to least viewable area. \n\n6. Coffee Maker - \nPrecaution: Unplug it and put it inside cupboard. \n\n Finally Do NOT forget to turn off the lights.</string>
+    <string name="changingroom_instruction">Possibility of a Hidden Camera in changing room is almost 20%. \n\nScan for devices listed below: \n\n1. Mirror - \nPrecaution: Touch the mirror. Do you feel any gap between your finger and its reflection? if NO, there could be a hidden camera behind the mirror glass. Report Immediately or change the room. \n\n2. Hanger - \nPrecaution: Check for lens looking aperture for hanger specially screw looking objects. Put cloths covering all screws. \n\n3. Ceiling/Smoke Detector - \nPrecaution: Apply sticker/tape over the viewable part of the detector.</string>
+    <string name="detect_high_tech_spy_cameras">Detect High Tech Spy Cameras</string>
+    <string name="tips_for_manual_detection">Tips for manual detection</string>
+    <string name="Detect_hidden_Cameras_anywhere">Detect hidden Cameras anywhere</string>
+    <string name="setup_emergency_sos_service_and_get_help_at_unsafe_places">Setup Emergency SOS service and get help at unsafe places</string>
+    <string name="read_women_s_empowerment_and_struggle_news_and_get_empowered">Read Women\'s empowerment and struggle news and get empowered</string>
+    <string name="use_this_button_to_deviate_the_culprit_this_can_also_be_triggered_by_just_tapping_the_power_button_6_times">Use this button to deviate the culprit, this can also be triggered by just tapping the power button 6 times</string>
+    <string name="while_outside_you_might_be_under_cctv_camera_n_nin_outside_world_you_are_not_supposed_to_hide_your_identity_in_official_places_so_just_be_cautious_and_behave_accordingly">While Outside you might be under CCTV camera. \n\nIn Outside world, you are not supposed to hide your identity in official places. so just be cautious and behave accordingly.</string>
+    <string name="enter_first_phone_number">Enter first phone number…</string>
+    <string name="enter_second_phone_number">Enter second phone number…</string>
+    <string name="enter_third_phone_number">Enter third phone number…</string>
+    <string name="enter_fourth_phone_number">Enter fourth phone number…</string>
+    <string name="enter_message">Enter message…</string>
+    <string name="try_it">Try it</string>
+    <string name="save">Save</string>
+    <string name="instructions_for_emergency_service">INSTRUCTIONS for Emergency Service</string>
+    <string name="step_1_save_maximum_four_contact_numbers_of_your_relatives_n_nstep_2_tap_try_it_button_to_test_the_functionality_of_the_sos_n_nstep_3_the_app_will_send_sms_with_your_live_location_to_all_four_numbers_and_make_phone_call_to_first_number_the_live_location_will_not_be_a_link_instead_it_will_be_longitude_latitude_and_the_exact_place_wherever_you_are_present_so_that_your_relatives_could_take_action_even_if_they_don_t_have_internet_connection_n_nstep_4_now_NiDar_is_ready_to_help_you_in_emergency_situations_n_nlet_s_see_how_you_will_use_ladybuddy_in_emergency_n_nstep_1_whenever_you_go_through_any_unsafe_place_just_open_the_app_and_press_back_or_home_button_so_that_the_app_starts_running_in_the_background_n_nstep_2_make_sure_that_app_is_running_in_the_background_that_means_it_is_in_the_system_tray_n_nstep_3_whenever_you_feel_emergency_tapping_power_button_three_times_will_send_emergency_message_and_call_tapping_it_again_three_times_will_start_a_siren_to_deviate_the_culprit_n_nstep_4_make_sure_that_all_these_6_times_tapping_should_be_in_one_minute_otherwise_you_will_have_to_again_start_tapping_count_from_zero_n_nstep_5_tapping_power_button_again_three_times_or_closing_the_app_from_background_will_stop_the_siren_n_nnote_make_sure_that_tapping_power_button_means_screen_goes_off_or_on">Step 1:- Save maximum four contact numbers of your relatives.\n\nStep 2:- Tap TRY IT button to test the functionality of the SOS.\n\nStep 3:- The app will send SMS with your live location to all four numbers and make phone call to first number. The live location will not be a link, instead it will be longitude, latitude and the exact place wherever you are present, so that your relatives could take action even if they don\'t have internet connection.\n\nStep 4:- Now, Ladybuddy is ready to help you in emergency situations.\n\nLet\'s see how you will use ladybuddy in emergency:-\n\nStep 1:- Whenever you go through any unsafe place, just open the app and press back or home button so that the app starts running in the background.\n\nStep 2:- Make Sure that app is running in the background that means it is in the system tray.\n\nStep 3:- Whenever you feel emergency, tapping power button three times will send Emergency message and call, tapping it again three times will start a siren to deviate the culprit.\n\nStep 4:- Make Sure that all these 6 times tapping should be in one minute otherwise you will have to again start tapping count from zero.\n\nStep 5:- Tapping power button again three times or closing the app from background will stop the siren.\n\nNote:- Make sure that tapping power button means screen goes off or on</string>
+    <string name="short_instructions">Short Instructions</string>
+    <string name="nstep_1_save_relative_s_phone_no_s_n_nstep_2_test_the_sos_functionality_n_nstep_3_run_the_app_in_background_whenever_you_feel_unsafe_n_nstep_4_tap_the_power_button_3_times_make_sure_for_emergency_messaging_and_calling_n_nstep_5_tap_power_button_3_times_more_to_start_the_siren_alarm_and_3_times_more_to_stop_it_n_n_note_make_sure_that_tapping_power_button_means_screen_goes_off_or_on_n_nread_detailed_instructions_on_the_top_right_corner_n">\nStep 1:- Save relative\'s phone no.s\n\nStep 2:- Test the SOS Functionality\n\nStep 3:- Run the app in background whenever you feel unsafe\n\nStep 4:- Tap the power button 3 times Make sure for Emergency messaging and calling\n\nStep 5:- Tap power button 3 times more to start the siren alarm and 3 times more to stop it\n\n Note:- Make sure that tapping power button means screen goes off or on\n\nRead detailed instructions on the top right corner\n</string>
+    <string name="okay">Okay</string>
+    <string name="hindi">हिंदी</string>
+    <string name="possibility_of_a_hidden_camera_in_bathroom_is_almost_12_n_nscan_for_devices_listed_below_n_n1_water_heater_nprecaution_turn_it_off_before_taking_bath_n_n2_mirror_nprecaution_touch_the_mirror_do_you_feel_any_gap_between_your_finger_and_its_reflection_if_no_there_could_be_a_hidden_camera_behind_the_mirror_glass_n_n3_ceiling_smoke_detector_nprecaution_apply_sticker_tape_over_the_viewable_part_of_the_detector_n_n4_lamps_or_bulbs_nprecaution_you_cannot_do_much_about_that_but_still_use_curtains_whenever_possible">Possibility of a Hidden Camera in bathroom is almost 12%. \n\nScan for devices listed below: \n\n1. Water Heater - \nPrecaution: Turn it off before taking bath. \n\n2. Mirror - \nPrecaution: Touch the mirror. Do you feel any gap between your finger and its reflection? if NO, there could be a hidden camera behind the mirror glass. \n\n3. Ceiling/Smoke Detector - \nPrecaution: Apply sticker/tape over the viewable part of the detector. \n\n4. Lamps or Bulbs - \nPrecaution: You cannot do much about that, but still use curtains whenever possible.</string>
+    <string name="choosenactivityinst">Hidden cameras which emit IR rays can simply be detected by using night vision of your phone camera.But these days very high tech hidden cameras are present in the market which do not even emit IR rays, so our magnetometer sensor simulation helps you detect those spy cameras very easily..</string>
+    <string name="MagnetometernotSupported">Magnetometer not Supported</string>
+    <string name="PotentialElectronicDeviceDetected">Potential electronic device detected</string>
+    <string name="Finallyelectronicdevicedetected">Finally electronic device detected</string>
+    <string name="NoDevice">No Potential electronic device detected</string>
+    <string name="where_are_you_now">Where are you NOW?</string>
+    <string name="bedroom">Bedroom</string>
+    <string name="bathroom">Bathroom</string>
+    <string name="changing_room">Changing Room</string>
+    <string name="outside">Outside</string>
+    <string name="know_about_us">Know About Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="Heading_aboutus">AboutUs</string>
+    <string name="heading_Detailed">Detailed Instructions</string>
+    <string name="heading_SOS">SOS Instructions</string>
+    <string name="Heading_Spy">Spy Camera Detector</string>
+    <string name="Heading_Manaul">Manual Detection</string>
+    <string name="Heading_Outside">Outside Instructions</string>
+    <string name="Heading_ChangingRoom">ChangingRoom Instructions</string>
+    <string name="Heading_BedroomInstructions">Bedroom Instructions</string>
+    <string name="Heading_BathroomInstructions">Bathroom Instructions</string>
+    <string name="headinh_DetectHiddenCameras">Detect Hidden Cameras</string>
+    <string name="Heading_WomenNews">Women\'s News</string>
+    <string name="Heading_AppTour">App Tour</string>
+    <string name="Heading_EmergencyService">Emergency Service</string>
+    <string name="calculate_n_safest_route">Calculate \n Safest Route</string>
+    <string name="magneto">Move the phone near all the suspected areas to detect the hidden camera \n</string>
+    <string name="magneto2">Read detailed instructions by tapping on the button located at the bottom right corner of the screen</string>
+    <string name="dangerMess">I am in danger, please come fast…</string>
+    <string name="title_activity_safe_route">SafeRoute</string>
+    <string name="Marathi">Marathi</string>
+
+
+    //Headings
+    <string name="heading_one">Emergency &amp; SOS Facility</string>
+    <string name="heading_two">Calculate Safest Route</string>
+    <string name="heading_three">Detect Hidden Camera</string>
+    <string name="heading_fourth">Women\'s News</string>
+
+    //Description
+    <string name="desc_one">You can send emergency message along with current location to Police or to the relatives</string>
+    <string name="desc_two">You can find out the safest route from your current location to the destination</string>
+    <string name="desc_three">You can detect the hidden cameras present in washrooms, changing room or in hotel rooms using this application</string>
+    <string name="desc_fourth">You can get the latest news from around the world on this application to keep you updated </string>
+    <string name="login_string">Already have an account? <b>Login here</b></string>
+    <string name="change_password">Change Password</string>
+    <string name="change_language">Change Language</string>
+    <string name="logout">Logout</string>
+    <string name="my_profile">My Profile</string>
+    <string name="navigation_open">Open Navigation drawer</string>
+    <string name="navigation_close">Close Navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_home_page" translatable="false">HomePage</string>
+    <string name="title_activity_settings" translatable="false">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header" translatable="false">Messages</string>
+    <string name="sync_header" translatable="false">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title" translatable="false">Your signature</string>
+    <string name="reply_title" translatable="false">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title" translatable="false">Sync email periodically</string>
+    <string name="attachment_title" translatable="false">Download incoming attachments</string>
+    <string name="attachment_summary_on" translatable="false">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off" translatable="false">Only download attachments when manually requested</string>
+    <string name="my">My</string>
+    <string name="profile">Profile</string>
+    <string name="kirti_rai" translatable="false">Kirti Rai</string>
+    <string name="username_kirtiiraii">Username: kirtiiraii</string>
+    <string name="mobile">Mobile</string>
+    <string name="_91_8303582275">+91 8303582275</string>
+    <string name="email">Email</string>
+    <string name="kirtirai2906_gmail_com">kirtirai2906@gmail.com</string>
+    <string name="update_email">Update Email</string>
+    <string name="current_location">Current \n Location</string>
+    <string name="current_N_location">Current Location</string>
+</resources>

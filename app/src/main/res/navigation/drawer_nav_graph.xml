@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_nav_graph"
+    app:startDestination="@id/home">
+
+    <fragment
+        android:id="@+id/home"
+        android:name="com.womensafety.Fragments.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+
+
+    <activity
+        android:id="@+id/aboutUs"
+        android:name="com.womensafety.AboutUs"
+        android:label="AboutUs" />
+    <activity
+        android:id="@+id/chngLang"
+        android:name="com.womensafety.Language2"
+        android:label="activity_language"
+        tools:layout="@layout/activity_language2" />
+    <activity
+        android:id="@+id/settings"
+        android:name="com.womensafety.Settings"
+        android:label="activity_settings"
+        tools:layout="@layout/activity_settings" />
+    <activity
+        android:id="@+id/prof"
+        android:name="com.womensafety.ProfileActivity"
+        android:label="activity_profile"
+        tools:layout="@layout/activity_profile" />
+
+</navigation>

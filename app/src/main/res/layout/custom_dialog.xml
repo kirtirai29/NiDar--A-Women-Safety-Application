@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="4dp">
+    <TextView
+        android:id="@+id/headings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/short_instructions"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:gravity="center_horizontal"
+        android:paddingTop="5dp"
+        android:background="@color/lightGray"
+        />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="6"
+        android:background="@color/lightGray">
+
+        <TextView
+            android:id="@+id/textFormodal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:inputType="textMultiLine"
+            android:paddingRight="2dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="2dp"
+            android:text="@string/nstep_1_save_relative_s_phone_no_s_n_nstep_2_test_the_sos_functionality_n_nstep_3_run_the_app_in_background_whenever_you_feel_unsafe_n_nstep_4_tap_the_power_button_3_times_make_sure_for_emergency_messaging_and_calling_n_nstep_5_tap_power_button_3_times_more_to_start_the_siren_alarm_and_3_times_more_to_stop_it_n_n_note_make_sure_that_tapping_power_button_means_screen_goes_off_or_on_n_nread_detailed_instructions_on_the_top_right_corner_n"
+            android:textAlignment="textStart"
+            android:textSize="14sp" />
+
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_weight="1"
+        android:layout_marginBottom="0dp"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="4dp"
+            android:layout_marginLeft="4dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="2dp"
+            android:enabled="false"
+            android:textColor="@color/colorPrimary"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/checkBoxText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="2dp"
+            android:enabled="false"
+            android:text="TextView"
+            android:visibility="invisible" />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_okay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="5dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:background="@drawable/button"
+        android:backgroundTint="@color/colorPrimary"
+        android:text="@string/okay"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+</LinearLayout>

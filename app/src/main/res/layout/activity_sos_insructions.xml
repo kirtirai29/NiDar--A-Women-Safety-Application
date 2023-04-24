@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Bathroom">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="25dp"
+        app:cardCornerRadius="15dp"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:gravity="center_horizontal"
+            android:text="@string/instructions_for_emergency_service"
+            android:textColor="#000000"
+            android:textSize="16dp" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="65dp"
+            android:background="@color/lightGray">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="8dp"
+                android:inputType="textMultiLine"
+                android:padding="6dp"
+                android:text="@string/step_1_save_maximum_four_contact_numbers_of_your_relatives_n_nstep_2_tap_try_it_button_to_test_the_functionality_of_the_sos_n_nstep_3_the_app_will_send_sms_with_your_live_location_to_all_four_numbers_and_make_phone_call_to_first_number_the_live_location_will_not_be_a_link_instead_it_will_be_longitude_latitude_and_the_exact_place_wherever_you_are_present_so_that_your_relatives_could_take_action_even_if_they_don_t_have_internet_connection_n_nstep_4_now_NiDar_is_ready_to_help_you_in_emergency_situations_n_nlet_s_see_how_you_will_use_ladybuddy_in_emergency_n_nstep_1_whenever_you_go_through_any_unsafe_place_just_open_the_app_and_press_back_or_home_button_so_that_the_app_starts_running_in_the_background_n_nstep_2_make_sure_that_app_is_running_in_the_background_that_means_it_is_in_the_system_tray_n_nstep_3_whenever_you_feel_emergency_tapping_power_button_three_times_will_send_emergency_message_and_call_tapping_it_again_three_times_will_start_a_siren_to_deviate_the_culprit_n_nstep_4_make_sure_that_all_these_6_times_tapping_should_be_in_one_minute_otherwise_you_will_have_to_again_start_tapping_count_from_zero_n_nstep_5_tapping_power_button_again_three_times_or_closing_the_app_from_background_will_stop_the_siren_n_nnote_make_sure_that_tapping_power_button_means_screen_goes_off_or_on"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+        </ScrollView>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

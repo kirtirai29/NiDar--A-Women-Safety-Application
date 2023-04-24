@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:targetApi="31">
+        <!--
+             TODO: Before you run your application, you need a Google Maps API key.
+
+             To get one, follow the directions here:
+
+                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+
+             Once you have your API key (it starts with "AIza"), define a new property in your
+             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCR4-9B93C53TrxoIxEspPfcJ_wJqfDQLA" />
+
+        <activity
+            android:name=".SafeRoute"
+            android:exported="false"
+            android:label="@string/title_activity_safe_route"
+            android:theme="@style/Theme.New" />
+        <activity
+            android:name=".SosInsructionsActivity"
+            android:exported="true"
+            android:label="@string/heading_SOS"
+            android:parentActivityName=".SmsActivity">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".UpdateEmail"
+            android:exported="false"
+            android:label="@string/update_email">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".UploadActivity"
+            android:label="Upload Profile Picture"
+            android:parentActivityName=".ProfileActivity">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".pp"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Settings"
+            android:exported="false"
+            android:label="Settings"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Language2"
+            android:exported="false"
+            android:label="Choose Language"
+            android:theme="@style/Theme.New" />
+        <activity
+            android:name=".ForgetActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Magnetometer"
+            android:exported="true"
+            android:label="@string/Heading_Spy"
+            android:parentActivityName=".ChoosenActivity"
+            android:theme="@style/Theme.New" />
+        <activity
+            android:name=".Outside"
+            android:exported="true"
+            android:label="@string/Heading_Outside"
+            android:parentActivityName=".MagnoInst"
+            android:theme="@style/Theme.New" />
+        <activity
+            android:name=".ChangingRoom"
+            android:exported="true"
+            android:label="@string/Heading_ChangingRoom"
+            android:parentActivityName=".MagnoInst"
+            android:theme="@style/Theme.New" />
+        <activity
+            android:name=".Bedroom"
+            android:exported="true"
+            android:label="@string/Heading_BedroomInstructions"
+            android:parentActivityName=".MagnoInst"
+            android:theme="@style/Theme.New">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".MagnoInst"
+            android:exported="true"
+            android:label="@string/Heading_Manaul"
+            android:parentActivityName=".ChoosenActivity"
+            android:theme="@style/Theme.New" />
+        <activity
+            android:name=".Bathroom"
+            android:exported="true"
+            android:label="@string/Heading_BathroomInstructions"
+            android:parentActivityName=".MagnoInst"
+            android:theme="@style/Theme.New" />
+        <activity
+            android:name=".MagBtnInst"
+            android:exported="true"
+            android:label="@string/heading_Detailed"
+            android:parentActivityName=".Magnetometer"
+            android:theme="@style/Theme.New" />
+        <activity
+            android:name=".NewsActivity"
+            android:exported="true"
+            android:label="News Feed"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.New" />
+        <activity
+            android:name=".AboutUs"
+            android:exported="true"
+            android:label="@string/Heading_aboutus"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.New" />
+        <activity
+            android:name=".Instructions"
+            android:label="@string/Heading_AppTour"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.New" />
+        <activity
+            android:name=".ChoosenActivity"
+            android:exported="true"
+            android:label="@string/headinh_DetectHiddenCameras"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.New" />
+        <activity
+            android:name=".SmsActivity"
+            android:label="@string/Heading_EmergencyService"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.New" />
+        <activity
+            android:name=".Flashing"
+            android:label="Siren"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".SignUp"
+            android:exported="false"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Login"
+            android:exported="false"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".OnBoarding"
+            android:exported="false"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

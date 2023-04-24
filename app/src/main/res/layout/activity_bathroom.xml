@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Bathroom">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="5dp"
+        android:orientation="vertical"
+        app:cardCornerRadius="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="8dp"
+                android:inputType="textMultiLine"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingBottom="15dp"
+                android:text="@string/possibility_of_a_hidden_camera_in_bathroom_is_almost_12_n_nscan_for_devices_listed_below_n_n1_water_heater_nprecaution_turn_it_off_before_taking_bath_n_n2_mirror_nprecaution_touch_the_mirror_do_you_feel_any_gap_between_your_finger_and_its_reflection_if_no_there_could_be_a_hidden_camera_behind_the_mirror_glass_n_n3_ceiling_smoke_detector_nprecaution_apply_sticker_tape_over_the_viewable_part_of_the_detector_n_n4_lamps_or_bulbs_nprecaution_you_cannot_do_much_about_that_but_still_use_curtains_whenever_possible"
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+        </ScrollView>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
