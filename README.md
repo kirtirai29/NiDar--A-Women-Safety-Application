@@ -7,6 +7,13 @@ Women Safety Application called as “NiDar,” is a Hindi word which means fear
 
 These limitations include not knowing the location of the crime and not knowing the crime is occurring at all: it is difficult for the victim to call the police confidently and quietly. To aid in the removal of these prohibitions. This app presents the Women’s Safety Application, a smartphone app that provides a reliable way for women to let the closed ones know about them in an emergency or take some help in the unwanted situation. Secondly this, app is supportable of Hindi language along with English language that can be equally useful for those who understand little or no English at all. 
 
-## Here are the screenshots of our application
+## Here are the screenshots of our application :
+
+![nidar-homescreen](https://user-images.githubusercontent.com/65340078/234298192-1dc189fc-129b-46b0-9a30-a370cfa62acf.jpg)
+
+![nidar-emergencyservice](https://user-images.githubusercontent.com/65340078/234298174-72ab2ecd-879b-4150-a324-35ee5b901bc1.jpg)
+![nidar-newfeed](https://user-images.githubusercontent.com/65340078/234298185-2878f707-34c8-4ea8-b79c-67b7534f7743.jpg)
+
+![nidar-spycamera](https://user-images.githubusercontent.com/65340078/234298247-b6028899-3c97-4db6-9bab-bbd6cdf31240.jpg)
 
 
